@@ -22,7 +22,7 @@ CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003118743660"))
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003118743660"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002195125473"))
 # -----------------------------------------------
 join = '<a href="https://t.me/RPSC_UPSC_CURRENT">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
@@ -46,6 +46,6 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content
 # SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1783306092").split()))
 # CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003118743660"))
 # MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://wadiro6523:08AwfhhKRdQaS1i6@cluster0.krzxuop.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-# PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003118743660"))
+# PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002195125473"))
 # THUMB_URL = os.environ.get("THUMB_URL", "https://i.fbcd.co/products/original/ug-circle-logo-design-2-e84695ca2ab9a697d2b2d7c928b0bf5f12bf18e076da241815e0372c8d617915.jpg")
 
