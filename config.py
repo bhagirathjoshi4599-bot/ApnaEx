@@ -30,7 +30,7 @@ UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "Mirza_Ghallib" #without @
+ADMIN_BOT_USERNAME = "Study_Table" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content/uploads/2022/04/1.jpg")
 
@@ -40,7 +40,7 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content
 # # Bot configuration
 # API_ID = int(os.environ.get("API_ID", "24127726"))
 # API_HASH = os.environ.get("API_HASH", "f3527bb129a9766639ede82ea535b862")
-# BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+# BOT_TOKEN = os.environ.get("BOT_TOKEN", "8261209945:AAEJQCcfZ0llH6WO0wntug-X5i6tVmsmyyo")
 # BOT_USERNAME = os.environ.get("BOT_USERNAME", "muntajir_bot")
 # OWNER_ID = int(os.environ.get("OWNER_ID", "5415429863"))
 # SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1783306092").split()))
